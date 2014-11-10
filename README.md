@@ -3,7 +3,7 @@
 
 See the [online demo and documentation](http://fvsch.com/code/remarkdown/).
 
-## TODO
+## TODO 
 
 - [x] Put font styles behind `$set_font_styles` Bool option
 - [x] Implement `code-fence` styles
